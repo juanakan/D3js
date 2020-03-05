@@ -7,7 +7,7 @@ const width = 500;
 const height =500;
 const barWidth = 70;
 
-const svg = d3.select('#containerChart')
+const svg = d3.select('#prueba')
     .append('svg')
     .attr('width', width)
     .attr('height', height);
